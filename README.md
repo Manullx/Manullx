@@ -76,74 +76,6 @@ Minhas principais tecnologias incluem **Python, Node.js, React, bancos de dados 
 
 ---
 
-## 🚀 Projetos em destaque
-
-### Souza Treinamentos
-
-Plataforma web para gerenciamento de treinamentos corporativos, certificações de funcionários e conformidade com normas de segurança do trabalho.
-
-**Principais funcionalidades:**
-
-- Gerenciamento de treinamentos corporativos
-- Controle de certificações de funcionários
-- Acompanhamento de conformidade em segurança do trabalho
-- Interfaces web responsivas
-
----
-
-### Commerce X
-
-Plataforma SaaS de comércio eletrônico para gerenciamento de lojas virtuais, produtos, estoque, clientes e pedidos.
-
-**Principais funcionalidades:**
-
-- Gerenciamento de múltiplas lojas
-- Controle de produtos e estoque
-- Processamento de pedidos
-- Integração com APIs REST
-- Arquitetura SaaS escalável
-
----
-
-### Tic Tac AI
-
-Projeto de inteligência artificial que utiliza aprendizado por reforço para treinar um agente autônomo capaz de jogar jogo da velha.
-
-**Principais conceitos:**
-
-- Aprendizado por reforço
-- Treinamento de agentes
-- Algoritmos de tomada de decisão
-- Implementação utilizando Python
-
----
-
-## 💼 Experiência profissional
-
-Ao longo da minha carreira, trabalhei com:
-
-- Desenvolvimento de aplicações Full Stack escaláveis
-- Sistemas backend e APIs REST
-- Bancos de dados relacionais e orientados a documentos
-- Pipelines de dados com Python, PySpark, Polars e Databricks
-- Análise de qualidade de dados e validação de modelos estatísticos
-- Integrações com inteligência artificial utilizando a API da OpenAI
-- Monitoramento de infraestrutura com Zabbix e Grafana
-- Automação de processos com n8n
-- Implantação e manutenção de aplicações em ambientes Linux
-
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura de software avançada
-- Desenvolvimento de aplicações nativas em nuvem
-- Boas práticas de engenharia de dados
-- Inteligência artificial e aprendizado de máquina
-- Sistemas escaláveis e distribuídos
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -163,13 +95,3 @@ Ao longo da minha carreira, trabalhei com:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/emanuel-henkel-gonçalves-195441198)
 
 [![E-mail](https://img.shields.io/badge/E--mail-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuel.henkel@gmail.com)
-
----
-
-<div align="center">
-
-### Obrigado por visitar meu perfil!
-
-Estou sempre interessado em aprender, colaborar e desenvolver soluções úteis com tecnologia.
-
-</div>

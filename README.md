@@ -80,11 +80,8 @@ Minhas principais tecnologias incluem **Python, Node.js, React, bancos de dados 
 
 <div align="center">
 
-![Estatísticas do GitHub de Emanuel](https://github-readme-stats.vercel.app/api?username=Manullx&show_icons=true&hide_border=true&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Manullx&layout=compact&hide_border=true&locale=pt-br)
-
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=Manullx&hide_border=true&locale=pt_BR)
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Manullx&layout=compact&hide_border=true&locale=pt-br)
 
 </div>
 
